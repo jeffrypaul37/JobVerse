@@ -1,4 +1,4 @@
-# Jobverse: Bridging The Gap Between Job Seekers and Employers
+# JobVerse: Bridging The Gap Between Job Seekers and Employers
 
 * *Deployed Application URL*: <https://job-verse.vercel.app/>
 
