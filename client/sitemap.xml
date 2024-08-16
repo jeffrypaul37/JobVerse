@@ -1,0 +1,17 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://job-verse.vercel.app/</loc>
+    </url>
+    <url>
+        <loc>https://job-verse.vercel.app/search</loc>
+    </url>
+    <url>
+        <loc>https://job-verse.vercel.app/faq</loc>
+    </url>
+    <url>
+        <loc>https://job-verse.vercel.app/contact-us</loc>
+    </url>
+    <url>
+        <loc>https://job-verse.vercel.app/register</loc>
+    </url>
+</urlset>
