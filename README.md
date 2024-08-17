@@ -1,6 +1,21 @@
 # JobVerse: Bridging The Gap Between Job Seekers and Employers
 
-* *Deployed Application URL*: <https://job-verse.vercel.app/>
+JobVerse is a comprehensive job application platform that our team built using the MERN stack. This platform facilitates the seamless connection between job seekers and employers, offering features such as job listings, application management, and real-time communication. It uses MongoDB for data storage, Express.js and Node.js for server-side logic and API development, and React.js for a dynamic and responsive front-end experience.
+
+# Table of Contents
+
+- [Demo](#demo)
+- [Authors](#authors)
+- [Getting Started](#getting-started)
+- [Deployment](#deployment)
+- [Built With](#built-with)
+- [Sources Used](#sources-used)
+- [Contribute](#contribute)
+- [License](#license)
+
+## Demo
+
+![Demo](https://github.com/jeffrypaul37/JobVerse/blob/main/JobVerse%20Demo.gif)
 
 ## Authors
 
@@ -29,7 +44,7 @@ Node environment (v20.13.1)
 
 ## Deployment
 
-We deployed our web application using GitHub and Vercel. First, We created a new private repository on GitHub and pushed the project code to it. Then, We imported this repository into Vercel, configured the build settings, and initiated the deployment.  
+We deployed our web application using GitHub and Vercel. First, we created a new private repository on GitHub and pushed the project code to it. Then, We imported this repository into Vercel, configured the build settings, and initiated the deployment.  
 
 ## Built With
 
@@ -697,3 +712,11 @@ module.exports = router;
 
 * For responsive navbar we took inspiration from [Indeed](https://ca.indeed.com/)
 * For Home Landing page the Jobillico website home is taken as inspiration [Jobillico](https://www.jobillico.com/en)
+
+## Contribute
+
+Feel free to contribute by forking the repository and submitting a pull request.
+
+## License
+
+This project is licensed under the MIT License.
